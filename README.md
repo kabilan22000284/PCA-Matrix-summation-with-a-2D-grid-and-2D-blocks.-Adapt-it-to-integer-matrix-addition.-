@@ -175,6 +175,8 @@ return (0);
 ```
 
 ## Output:
+![Screenshot (31)](https://github.com/kabilan22000284/PCA-Matrix-summation-with-a-2D-grid-and-2D-blocks.-Adapt-it-to-integer-matrix-addition.-/assets/123469171/8e6e4787-d1c3-41bf-bca3-9125cd55c840)
+
 
 Matrix initialization : 6.338138 sec.
 
