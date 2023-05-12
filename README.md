@@ -176,7 +176,6 @@ return (0);
 
 ## Output:
 
-
 Matrix initialization : 6.338138 sec.
 
 Sum matrix on Host : 0.884061 sec.
